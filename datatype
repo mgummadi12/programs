@@ -1,0 +1,28 @@
+public class DataTypeExample {
+    public static void main(String[] args) {
+        // Primitive data types
+        int age = 25;
+        double salary = 50000.75;
+        char gender = 'M';
+        boolean isStudent = true;
+
+        // Reference data types
+        String name = "John Doe"; // String is a class in Java
+
+        // Array of integers
+        int[] numbers = { 1, 2, 3, 4, 5 };
+
+        // Object reference
+        MyClass obj = new MyClass();
+    }
+}
+
+class MyClass {
+    // Class definition
+}
+In this example, int, double, char, boolean, and String are examples of data types, while int[] and MyClass are examples of reference data types.
+
+
+
+
+
