@@ -12,15 +12,15 @@ public class list {
 		
 		List <String>list = new ArrayList<String>();
 		
-		list.add("maha");
+		list.add("priya");
 		list.add("sai");
 		list.add("nari");
-		list.add("lakshmi");
+		list.add("sri");
 		
-		list.add("maha");
+		list.add("priya");
 		list.add("sai");
 		list.add("nari");
-		list.add("lakshmi");
+		list.add("sri");
 	
 		
 		//list.add(1);
